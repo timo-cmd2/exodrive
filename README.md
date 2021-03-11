@@ -6,7 +6,7 @@ Project EXODRIVE: A pragmatic implementation for a lane-detection AI. Base for a
 
 - Lane detection AI
 - Realtime RODN Radar
-- Support for Car Hardware
+- Support for Car Hardware mostly running on ROS2
 - RANSAC algorithm for Planar localization `not yet working`
 
 ### To be done:
